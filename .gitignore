@@ -5,8 +5,9 @@
 # Dependency directory
 node_modules
 bower_components
+dist
 
-# ignore yarn.lock
+# ignore lock
 package-lock.json
 
 # Editors
